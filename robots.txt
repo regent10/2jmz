@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://regent10.github.io/2jmz/sitemap.xml
