@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://regent10.github.io/2jmz/irony-and-death.html",
+            "url": "https://regent10.github.io/2jmz/irony-and-death.html",
+            "title": "Irony and death",
+            "summary": "The weekend saw a pretty awesome event from Ukraine in the Russian war against them: they were able to significantly damage a major symbol of Russia's aggression, the Kerch Bridge. This bridge was built after Russia invaded and annexed the Crimean Peninsula in 2014, the start of their land grab and illegal war with Ukraine. After taking Crimea, they put&hellip;",
+            "author": {
+                "name": "james"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-10T07:24:00-07:00",
+            "date_modified": "2022-10-11T07:25:07-07:00"
+        },
+        {
             "id": "https://regent10.github.io/2jmz/family-non-update.html",
             "url": "https://regent10.github.io/2jmz/family-non-update.html",
             "title": "Family non-update",
@@ -52,14 +65,13 @@
                    "Ukraine 2022"
             ],
             "date_published": "2022-09-15T14:11:29-07:00",
-            "date_modified": "2022-10-08T09:04:10-07:00"
+            "date_modified": "2022-10-08T10:26:47-07:00"
         },
         {
             "id": "https://regent10.github.io/2jmz/catching-up-part-2.html",
             "url": "https://regent10.github.io/2jmz/catching-up-part-2.html",
             "title": "Catching up, part 2",
             "summary": "Continuing with the assorted postings I've collected over the past month-ish... August 17 - I'd mentioned the program proposed by the occupiers to appropriate cars from people unless they [a] still happened to be in the city, and [b] were willing to jump through assorted hoops to try to keep their property. Said proposal is now the law, because you&hellip;",
-            "image": "https://regent10.github.io/2jmz/media/posts/229/dps8dgdf.bmp",
             "author": {
                 "name": "james"
             },
@@ -67,7 +79,7 @@
                    "Ukraine 2022"
             ],
             "date_published": "2022-09-02T12:25:13-07:00",
-            "date_modified": "2022-10-08T09:04:58-07:00"
+            "date_modified": "2022-10-08T10:30:21-07:00"
         },
         {
             "id": "https://regent10.github.io/2jmz/catching-up.html",
@@ -139,20 +151,6 @@
             ],
             "date_published": "2022-07-09T12:50:11-07:00",
             "date_modified": "2022-10-05T07:19:46-07:00"
-        },
-        {
-            "id": "https://regent10.github.io/2jmz/looting-mariupol.html",
-            "url": "https://regent10.github.io/2jmz/looting-mariupol.html",
-            "title": "Looting Mariupol",
-            "summary": "One of the features of this war from the beginning has been the looting. I suppose that happens in all wars -- the \"sacking of Rome\" and whatnot -- but to see it in near real-time and while fighting is still going on has been particularly galling. When Russian soldiers retreated from the northern parts of Ukraine, they took whatever&hellip;",
-            "author": {
-                "name": "james"
-            },
-            "tags": [
-                   "Ukraine 2022"
-            ],
-            "date_published": "2022-07-09T12:28:34-07:00",
-            "date_modified": "2022-10-05T07:21:27-07:00"
         }
     ]
 }
