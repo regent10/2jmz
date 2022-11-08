@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://regent10.github.io/2jmz/lost-but-not-forgotten.html",
+            "url": "https://regent10.github.io/2jmz/lost-but-not-forgotten.html",
+            "title": "Lost, but not forgotten",
+            "summary": "It was probably a coincidence, but two sources I follow had new postings in the past couple days about the mass graves in and around Mariupol. I know it's not a fun topic to dwell on, but it's something that comes up (in some form or another) fairly frequently in our house. The first thing is this post from one&hellip;",
+            "author": {
+                "name": "james"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-08T10:36:56-08:00",
+            "date_modified": "2022-11-08T10:36:56-08:00"
+        },
+        {
             "id": "https://regent10.github.io/2jmz/the-good-the-bad-and-the-dark.html",
             "url": "https://regent10.github.io/2jmz/the-good-the-bad-and-the-dark.html",
             "title": "Kherson",
@@ -123,7 +136,7 @@
                    "Ukraine 2022"
             ],
             "date_published": "2022-07-28T12:01:00-07:00",
-            "date_modified": "2022-08-24T12:02:49-07:00"
+            "date_modified": "2022-11-07T17:26:17-08:00"
         },
         {
             "id": "https://regent10.github.io/2jmz/family-update-and-other-2.html",
@@ -138,20 +151,6 @@
             ],
             "date_published": "2022-07-28T10:38:11-07:00",
             "date_modified": "2022-10-05T07:19:06-07:00"
-        },
-        {
-            "id": "https://regent10.github.io/2jmz/bad-news.html",
-            "url": "https://regent10.github.io/2jmz/bad-news.html",
-            "title": "Bad news",
-            "summary": "I had been working on a different post, but now that will have to wait a bit, and unfortunately, some of the information in it has now changed. Sadly, we got word today that V's sister Inna was killed during the shelling of Mariupol. Apparently, this happened at the end of March, but given the \"fog of war,\" the information&hellip;",
-            "author": {
-                "name": "james"
-            },
-            "tags": [
-                   "Ukraine 2022"
-            ],
-            "date_published": "2022-07-25T20:23:41-07:00",
-            "date_modified": "2022-10-05T07:18:04-07:00"
         }
     ]
 }

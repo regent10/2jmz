@@ -3,12 +3,28 @@
     <title>2JMZ</title>
     <link href="https://regent10.github.io/2jmz/feed.xml" rel="self" />
     <link href="https://regent10.github.io/2jmz" />
-    <updated>2022-11-05T10:10:21-07:00</updated>
+    <updated>2022-11-08T10:36:56-08:00</updated>
     <author>
         <name>james</name>
     </author>
     <id>https://regent10.github.io/2jmz</id>
 
+    <entry>
+        <title>Lost, but not forgotten</title>
+        <author>
+            <name>james</name>
+        </author>
+        <link href="https://regent10.github.io/2jmz/lost-but-not-forgotten.html"/>
+        <id>https://regent10.github.io/2jmz/lost-but-not-forgotten.html</id>
+
+        <updated>2022-11-08T10:36:56-08:00</updated>
+            <summary>
+                <![CDATA[
+                    It was probably a coincidence, but two sources I follow had new postings in the past couple days about the mass graves in and around Mariupol. I know it's not a fun topic to dwell on, but it's something that comes up (in some form or another) fairly frequently in our house. The first thing is this post from one&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Kherson</title>
         <author>
@@ -145,7 +161,7 @@
         <id>https://regent10.github.io/2jmz/family-update-and-other.html</id>
             <category term="Ukraine 2022"/>
 
-        <updated>2022-08-24T12:02:49-07:00</updated>
+        <updated>2022-11-07T17:26:17-08:00</updated>
             <summary>
                 <![CDATA[
                     I had been working on this earlier, but between the heat, bad news about Inna, and some upcoming travel, I’m not going to have time to get the rest of the content I’d wanted to include added anytime soon. I’ll just point out that Mariupol remains bad under the Russians; there’s still no running water — at least not in&hellip;
@@ -166,23 +182,6 @@
             <summary>
                 <![CDATA[
                     I had been working on this earlier, but between the heat, bad news about Inna, and some upcoming travel, I'm not going to have time to get the rest of the content I'd wanted to include added anytime soon. I'll just point out that Mariupol remains bad under the Russians; there's still no running water -- at least not in&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Bad news</title>
-        <author>
-            <name>james</name>
-        </author>
-        <link href="https://regent10.github.io/2jmz/bad-news.html"/>
-        <id>https://regent10.github.io/2jmz/bad-news.html</id>
-            <category term="Ukraine 2022"/>
-
-        <updated>2022-10-05T07:18:04-07:00</updated>
-            <summary>
-                <![CDATA[
-                    I had been working on a different post, but now that will have to wait a bit, and unfortunately, some of the information in it has now changed. Sadly, we got word today that V's sister Inna was killed during the shelling of Mariupol. Apparently, this happened at the end of March, but given the "fog of war," the information&hellip;
                 ]]>
             </summary>
         <content></content>
