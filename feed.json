@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://regent10.github.io/2jmz/lost-but-not-forgotten.html",
+            "url": "https://regent10.github.io/2jmz/lost-but-not-forgotten.html",
+            "title": "Lost, but not forgotten",
+            "summary": "It was probably a coincidence, but two sources I follow had new postings in the past couple days about the mass graves in and around Mariupol. I know it's not a fun topic to dwell on, but it's something that comes up (in some form or another) fairly frequently in our house. The first thing is this post from one&hellip;",
+            "author": {
+                "name": "james"
+            },
+            "tags": [
+                   "Ukraine 2022"
+            ],
+            "date_published": "2022-11-08T10:36:56-08:00",
+            "date_modified": "2022-11-10T14:09:35-08:00"
+        },
+        {
+            "id": "https://regent10.github.io/2jmz/the-good-the-bad-and-the-dark.html",
+            "url": "https://regent10.github.io/2jmz/the-good-the-bad-and-the-dark.html",
+            "title": "Kherson",
+            "summary": "There is always a lot going on in Ukraine, and while I tend to read a lot of it, not a whole lot filters down to this blog. I've mentioned it before: I'm mostly focused on the people of Mariupol and places I've visited and know (to some degree). Unfortunately, it remains under Russian occupation, and since Mariupol is one&hellip;",
+            "author": {
+                "name": "james"
+            },
+            "tags": [
+                   "Ukraine 2022"
+            ],
+            "date_published": "2022-10-23T10:52:11-07:00",
+            "date_modified": "2022-11-05T10:10:21-07:00"
+        },
+        {
             "id": "https://regent10.github.io/2jmz/irony-and-death.html",
             "url": "https://regent10.github.io/2jmz/irony-and-death.html",
             "title": "Irony and death",
@@ -18,9 +46,10 @@
                 "name": "james"
             },
             "tags": [
+                   "Ukraine 2022"
             ],
             "date_published": "2022-10-10T07:24:00-07:00",
-            "date_modified": "2022-10-11T07:25:07-07:00"
+            "date_modified": "2022-11-10T14:25:25-08:00"
         },
         {
             "id": "https://regent10.github.io/2jmz/family-non-update.html",
@@ -35,7 +64,7 @@
                    "Ukraine 2022"
             ],
             "date_published": "2022-10-08T10:05:14-07:00",
-            "date_modified": "2022-10-08T10:05:14-07:00"
+            "date_modified": "2022-11-10T14:26:55-08:00"
         },
         {
             "id": "https://regent10.github.io/2jmz/riiiiight.html",
@@ -50,7 +79,7 @@
                    "Ukraine 2022"
             ],
             "date_published": "2022-09-27T18:28:10-07:00",
-            "date_modified": "2022-10-08T09:15:36-07:00"
+            "date_modified": "2022-11-10T14:27:54-08:00"
         },
         {
             "id": "https://regent10.github.io/2jmz/200-days.html",
@@ -65,7 +94,7 @@
                    "Ukraine 2022"
             ],
             "date_published": "2022-09-15T14:11:29-07:00",
-            "date_modified": "2022-10-08T10:26:47-07:00"
+            "date_modified": "2022-10-12T18:09:49-07:00"
         },
         {
             "id": "https://regent10.github.io/2jmz/catching-up-part-2.html",
@@ -79,7 +108,7 @@
                    "Ukraine 2022"
             ],
             "date_published": "2022-09-02T12:25:13-07:00",
-            "date_modified": "2022-10-08T10:30:21-07:00"
+            "date_modified": "2022-11-10T14:39:31-08:00"
         },
         {
             "id": "https://regent10.github.io/2jmz/catching-up.html",
@@ -108,7 +137,7 @@
                    "Ukraine 2022"
             ],
             "date_published": "2022-07-28T12:01:00-07:00",
-            "date_modified": "2022-08-24T12:02:49-07:00"
+            "date_modified": "2022-11-07T17:26:17-08:00"
         },
         {
             "id": "https://regent10.github.io/2jmz/family-update-and-other-2.html",
@@ -122,35 +151,7 @@
                    "Ukraine 2022"
             ],
             "date_published": "2022-07-28T10:38:11-07:00",
-            "date_modified": "2022-10-05T07:19:06-07:00"
-        },
-        {
-            "id": "https://regent10.github.io/2jmz/bad-news.html",
-            "url": "https://regent10.github.io/2jmz/bad-news.html",
-            "title": "Bad news",
-            "summary": "I had been working on a different post, but now that will have to wait a bit, and unfortunately, some of the information in it has now changed. Sadly, we got word today that V's sister Inna was killed during the shelling of Mariupol. Apparently, this happened at the end of March, but given the \"fog of war,\" the information&hellip;",
-            "author": {
-                "name": "james"
-            },
-            "tags": [
-                   "Ukraine 2022"
-            ],
-            "date_published": "2022-07-25T20:23:41-07:00",
-            "date_modified": "2022-10-05T07:18:04-07:00"
-        },
-        {
-            "id": "https://regent10.github.io/2jmz/no-good-reason.html",
-            "url": "https://regent10.github.io/2jmz/no-good-reason.html",
-            "title": "No good reason",
-            "summary": "I don't claim to be a particularly religious person, but I try to have a healthy respect for any religious institutions or people that truly seem to serve a greater good. That's part of the reason that I've found the shelling of religious buildings during the war particularly egregious. The multiple rocket GRAD (\"Hail\") systems are wildly imprecise, so using&hellip;",
-            "author": {
-                "name": "james"
-            },
-            "tags": [
-                   "Ukraine 2022"
-            ],
-            "date_published": "2022-07-09T12:50:11-07:00",
-            "date_modified": "2022-10-05T07:19:46-07:00"
+            "date_modified": "2022-11-09T11:47:20-08:00"
         }
     ]
 }
