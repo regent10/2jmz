@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: github-pages
+  path: gh-pages
   label: Sidebar Item
   create: all
   match: "**/*"
